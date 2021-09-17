@@ -1,0 +1,53 @@
+.cards-container{
+    width: 100%;
+    max-width:  1280px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-row: auto;
+    margin: 5% auto 23% auto;
+    grid-gap: 15px;
+}
+
+.cards{
+    height: 250px;
+    background-color: rebeccapurple;
+    position: relative;
+    transition: .5s;
+    border-radius: 5px;
+}
+
+.cards:hover{
+    transform: translateY(-15px);
+    box-shadow: 5px 15px 15px #ccc;
+}
+
+.background{
+    width: 100%;
+ 
+
+}
+
+.background img{
+    object-fit: cover;
+    width: 100%;
+    height: 250px;
+    border-radius: 5px;
+    
+}
+
+.titulo-card{
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    color: rgb(247, 151, 41);
+    font-size: 1.3rem;
+    word-break: break-all;
+}
+
+@media (max-width:1024px)
+{
+    .cards-container{
+        grid-template-columns: 1fr 1fr ;
+      
+    }
+}

@@ -1,0 +1,26 @@
+.buttons{
+    width: 25vw ;
+    height: auto;
+    padding: 1%;
+    margin: 15px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    overflow-x: auto;
+    border-radius: 15px;
+    box-shadow: 10px 10px 15px #ccc;
+}
+
+.abas{
+  border: none;
+  border-radius: 5px;
+  height: 50px;
+  background: none;
+}
+.active{
+    background: rgb(95, 95, 95);
+}
+
+.abas:hover{
+    background-color: rgb(136, 136, 136);
+}
