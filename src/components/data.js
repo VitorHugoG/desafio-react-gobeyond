@@ -27,8 +27,8 @@ export const portifolio = {
              title: "documentario",
              posts: [
                   { 
-                      title: "ggg",
-                      img: "ggg",
+                      title:"ggg",
+                      img: "https://source.unsplash.com/random",
                       link: "ggg"
                   },
                   { 
