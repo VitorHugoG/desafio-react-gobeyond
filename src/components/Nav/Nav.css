@@ -24,3 +24,10 @@
 .abas:hover{
     background-color: rgb(136, 136, 136);
 }
+
+@media (max-width:1024px)
+{
+     .buttons{
+         width: 40vw;
+     }
+}

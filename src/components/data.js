@@ -2,7 +2,7 @@ export const portifolio = {
     background: "https://images.unsplash.com/photo-1593642634443-44adaa06623a?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
     foto_perfil: "https://avatars.githubusercontent.com/u/62728505?v=4",
     nome : "Vitor Hugo",
-    profissao: "desenvolvedor de caderno",
+    profissao: "Desenvolvedor Front-end",
 
     redes: [
         {
@@ -11,40 +11,40 @@ export const portifolio = {
             link: "https://google.com"
         },
         {
-            logo: "https://cdn-icons-png.flaticon.com/64/483/483947.png",
-            nome: "Phone",
-            link: "https://google.com"
+            logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+            nome: "Github",
+            link: "https://github.com/VitorHugoG"
         },
         {
-            logo: "https://cdn-icons-png.flaticon.com/512/104/104069.png",
-            nome: "Email",
-            link: "https://google.com"
+            logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg",
+            nome: "Linkedin",
+            link: "https://www.linkedin.com/in/vitor-hugo-730044152/"
         }
     ],
     
     abas: [
          {
-             title: "documentario",
+             title: "✍️ estudo ",
              posts: [
                   { 
-                      title:"ggg",
-                      img: "https://source.unsplash.com/random",
+                      title:"Java",
+                      img: "https://images.unsplash.com/photo-1588239034647-25783cbfcfc1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
                       link: "ggg"
                   },
                   { 
-                    title: "aaa",
-                    img: "https://source.unsplash.com/random",
+                    title: "Javascript",
+                    img: "https://images.unsplash.com/photo-1543966888-7c1dc482a810?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
                     link: "aaa"
                   },
                   { 
-                    title: "bbb",
-                    img: "https://source.unsplash.com/random",
+                    title: "CSS",
+                    img: "https://images.unsplash.com/photo-1505685296765-3a2736de412f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
                     link: "bbb"
                   }
              ]
          },
          {
-            title: "projetos",
+            title: "💻 projetos",
             posts: [
                  { 
                      title: "Qfome",
@@ -60,27 +60,17 @@ export const portifolio = {
             ]
         },
         {
-            title: "artes",
+            title: "🎨 artes",
             posts: [
                  { 
                      title: "Venus de Milo",
                      img: "https://fetchnow.herokuapp.com/media?id=aHR0cHM6Ly9pbnN0YWdyYW0uZmFzcjEtMS5mbmEuZmJjZG4ubmV0L3YvdDUxLjI4ODUtMTUvZTM1LzE3NjI3ODE5OF8yMDgzMTc4MjQwNzg4ODlfODk2NDUxMDQ1MTE1MzIwOTM5Nl9uLmpwZz9fbmNfaHQ9aW5zdGFncmFtLmZhc3IxLTEuZm5hLmZiY2RuLm5ldCZfbmNfY2F0PTEwOSZfbmNfb2hjPWdZb000c2thTDdZQVg4SXlNeUwmZWRtPUFBQkJ2alVCQUFBQSZjY2I9Ny00Jm9oPWFmOTZjZTRmNzY4NjZiOGYzZjRiYjJiNzQwZWY1ZGZhJm9lPTYxNEIwMkE2Jl9uY19zaWQ9ODNkNjAz",
-                     link: "uuuu"
+                     link: "https://www.instagram.com/p/CN6KFMGLp9T/"
                  },
                  { 
-                    title: "Venus de Milo",
-                    img: "https://fetchnow.herokuapp.com/media?id=aHR0cHM6Ly9pbnN0YWdyYW0uZmFzcjEtMS5mbmEuZmJjZG4ubmV0L3YvdDUxLjI4ODUtMTUvZTM1LzE3NjI3ODE5OF8yMDgzMTc4MjQwNzg4ODlfODk2NDUxMDQ1MTE1MzIwOTM5Nl9uLmpwZz9fbmNfaHQ9aW5zdGFncmFtLmZhc3IxLTEuZm5hLmZiY2RuLm5ldCZfbmNfY2F0PTEwOSZfbmNfb2hjPWdZb000c2thTDdZQVg4SXlNeUwmZWRtPUFBQkJ2alVCQUFBQSZjY2I9Ny00Jm9oPWFmOTZjZTRmNzY4NjZiOGYzZjRiYjJiNzQwZWY1ZGZhJm9lPTYxNEIwMkE2Jl9uY19zaWQ9ODNkNjAz",
-                    link: "uuuu"
-               },
-               { 
-                title: "Venus de Milo",
-                img: "https://fetchnow.herokuapp.com/media?id=aHR0cHM6Ly9pbnN0YWdyYW0uZmFzcjEtMS5mbmEuZmJjZG4ubmV0L3YvdDUxLjI4ODUtMTUvZTM1LzE3NjI3ODE5OF8yMDgzMTc4MjQwNzg4ODlfODk2NDUxMDQ1MTE1MzIwOTM5Nl9uLmpwZz9fbmNfaHQ9aW5zdGFncmFtLmZhc3IxLTEuZm5hLmZiY2RuLm5ldCZfbmNfY2F0PTEwOSZfbmNfb2hjPWdZb000c2thTDdZQVg4SXlNeUwmZWRtPUFBQkJ2alVCQUFBQSZjY2I9Ny00Jm9oPWFmOTZjZTRmNzY4NjZiOGYzZjRiYjJiNzQwZWY1ZGZhJm9lPTYxNEIwMkE2Jl9uY19zaWQ9ODNkNjAz",
-                link: "uuuu"
-               },
-               { 
-                title: "Venus de Milo",
-                img: "https://fetchnow.herokuapp.com/media?id=aHR0cHM6Ly9pbnN0YWdyYW0uZmFzcjEtMS5mbmEuZmJjZG4ubmV0L3YvdDUxLjI4ODUtMTUvZTM1LzE3NjI3ODE5OF8yMDgzMTc4MjQwNzg4ODlfODk2NDUxMDQ1MTE1MzIwOTM5Nl9uLmpwZz9fbmNfaHQ9aW5zdGFncmFtLmZhc3IxLTEuZm5hLmZiY2RuLm5ldCZfbmNfY2F0PTEwOSZfbmNfb2hjPWdZb000c2thTDdZQVg4SXlNeUwmZWRtPUFBQkJ2alVCQUFBQSZjY2I9Ny00Jm9oPWFmOTZjZTRmNzY4NjZiOGYzZjRiYjJiNzQwZWY1ZGZhJm9lPTYxNEIwMkE2Jl9uY19zaWQ9ODNkNjAz",
-                link: "uuuu"
+                    title: "Batiman",
+                    img: "https://images.unsplash.com/photo-1601645191163-3fc0d5d64e35?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80",
+                    link: "https://www.instagram.com/p/CABFRR3nRqW/"
                }
             ]
         }
