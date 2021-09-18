@@ -4,7 +4,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-row: auto;
-    margin: 5% auto 23% auto;
+    margin: 3% auto 23% auto;
     grid-gap: 15px;
 }
 
@@ -16,7 +16,6 @@
     border-radius: 5px;
     animation-duration: 1.2s;
     animation-name: fade;
-
 }
 
 .cards:hover{
@@ -26,7 +25,7 @@
 
 .background{
     width: 100%;
-
+    background-image:  linear-gradient(to bottom , #fff, rgba(255, 255, 255, 0.521));
 }
 
 .background img{
@@ -41,9 +40,10 @@
     position: absolute;
     bottom: 15px;
     left: 15px;
-    color: rgb(247, 151, 41);
+    color: rgb(8, 187, 77);
     font-size: 1.3rem;
     word-break: break-all;
+    
 }
 @keyframes  fade  {
     from{
@@ -60,6 +60,5 @@
 {
     .cards-container{
         grid-template-columns: 1fr 1fr ;
-      
     }
 }
