@@ -14,6 +14,9 @@
     position: relative;
     transition: .5s;
     border-radius: 5px;
+    animation-duration: 1.2s;
+    animation-name: fade;
+
 }
 
 .cards:hover{
@@ -41,6 +44,16 @@
     color: rgb(247, 151, 41);
     font-size: 1.3rem;
     word-break: break-all;
+}
+@keyframes  fade  {
+    from{
+        margin-top: 18px;
+        opacity: .5;
+    }
+    to{
+        margin: 0;
+        opacity: 1;
+    }
 }
 
 @media (max-width:1024px)

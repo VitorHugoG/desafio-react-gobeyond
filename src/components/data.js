@@ -8,7 +8,7 @@ export const portifolio = {
         {
             logo: "https://cdn-icons-png.flaticon.com/64/1384/1384023.png",
             nome: "Whatsapp",
-            link: "https://google.com"
+            link: "https://api.whatsapp.com/send?phone=5511949120546"
         },
         {
             logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
