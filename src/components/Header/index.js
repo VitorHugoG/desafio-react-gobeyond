@@ -6,10 +6,10 @@ export default function Header(){
     return(
        <section className="hero">
         <div className="fundo">
-          <img src={portifolio.background}/>
+          <img src={portifolio.background} alt="background"/>
         </div>
         <figure className="profile">
-            <img src={portifolio.foto_perfil} />
+            <img src={portifolio.foto_perfil} alt="foto perfil" />
             <figcaption>
                 <h1 className="name">{portifolio.nome}</h1>
                 <h2 className="profession">{portifolio.profissao}</h2>

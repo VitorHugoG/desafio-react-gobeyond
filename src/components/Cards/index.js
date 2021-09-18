@@ -7,9 +7,9 @@ export default function Cards({indice}){
          <section className="cards-container">
               {portifolio.abas[indice].posts.map((post)=>
                 <article className="cards">
-                     <a href={post.link}>
+                     <a target="_blank" rel="noreferrer" href={post.link}>
                         <div className="background">
-                           <img src={post.img} target="_blank" />
+                           <img  src={post.img} alt=""  />
                         </div>
                          <span className="titulo-card"> {post.title}</span>
                      </a>
