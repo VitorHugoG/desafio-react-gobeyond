@@ -1,59 +1,54 @@
-
-.hero{
-    width: 100%;
-    max-width: 1280px;
-    margin: auto;
-    height: auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin-top: 30px;
+.hero {
+  width: 100%;
+  max-width: 1280px;
+  margin: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
 }
 
-.fundo{
-    width: 100%;   
+.fundo {
+  width: 100%;
 }
-.fundo img{
-    object-fit: cover;
-    width: 100%;
-    height: 250px;
-    border-radius: 15px;
-}
-
-.profile{
-    width: 40%;
-    height: auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    margin-top: -70px;
-}
-.profile img{
-    object-fit: cover;
-    width: 150px;
-    height: 150px;
-    border: 5px solid white;
-    border-radius: 50%;
+.fundo img {
+  object-fit: cover;
+  width: 100%;
+  height: 250px;
+  border-radius: 15px;
 }
 
-.name{
-    font-size: 1.8rem;
-    font-family: 'Lato';
+.profile {
+  width: 40%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: -70px;
+}
+.profile img {
+  object-fit: cover;
+  width: 150px;
+  height: 150px;
+  border: 5px solid white;
+  border-radius: 50%;
 }
 
-.profession{
-    font-family: 'Lato';
-    font-weight: 300;
+.name {
+  font-size: 1.8rem;
+  font-family: "Lato";
 }
 
-
-@media (max-width:1024px)
-{
-    .fundo{
-        width: 90%;   
-    }
+.profession {
+  font-family: "Lato";
+  font-weight: 300;
 }
 
-
+@media (max-width: 1024px) {
+  .fundo {
+    width: 90%;
+  }
+}

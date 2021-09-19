@@ -1,64 +1,62 @@
-.cards-container{
-    width: 100%;
-    max-width:  1280px;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-row: auto;
-    margin: 3% auto 23% auto;
-    grid-gap: 15px;
+.cards-container {
+  width: 100%;
+  max-width: 1280px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-row: auto;
+  margin: 3% auto 23% auto;
+  grid-gap: 15px;
 }
 
-.cards{
-    height: 250px;
-    background-color: rebeccapurple;
-    position: relative;
-    transition: .5s;
-    border-radius: 5px;
-    animation-duration: 1.2s;
-    animation-name: fade;
+.cards {
+  height: 250px;
+  background-color: rebeccapurple;
+  position: relative;
+  transition: 0.5s;
+  border-radius: 5px;
+  animation-duration: 1.2s;
+  animation-name: fade;
 }
 
-.cards:hover{
-    transform: translateY(-15px);
-    box-shadow: 5px 15px 15px #ccc;
+.cards:hover {
+  transform: translateY(-15px);
+  box-shadow: 5px 15px 15px #ccc;
 }
 
-.background{
-    width: 100%;
-    border-radius: 5px;
+.background {
+  width: 100%;
+  border-radius: 5px;
 }
 
-.background img{
-    object-fit: cover;
-    width: 100%;
-    height: 250px;
-    border-radius: 5px;
+.background img {
+  object-fit: cover;
+  width: 100%;
+  height: 250px;
+  border-radius: 5px;
 }
 
-.titulo-card{
-    position: absolute;
-    bottom: 15px;
-    left: 15px;
-    color: rgb(8, 187, 77);
-    font-size: 1.3rem;
-    word-break: break-all;
-    
+.titulo-card {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: rgb(8, 187, 77);
+  font-size: 1.3rem;
+  word-break: break-all;
 }
-@keyframes  fade  {
-    from{
-        margin-top: 0;
-        opacity: .5;
-    }
-    to{
-        margin: 0;
-        opacity: 1;
-    }
+@keyframes fade {
+  from {
+    margin-top: 15px;
+    opacity: 0.5;
+  }
+  to {
+    margin-top: 0px;
+    opacity: 1;
+  }
 }
 
-@media (max-width:1024px)
-{
-    .cards-container{
-        width: 90%;
-        grid-template-columns: 1fr 1fr ;
-    }
+@media (max-width: 1024px) {
+  .cards-container {
+    width: 90%;
+    grid-template-columns: 1fr 1fr;
+  }
 }

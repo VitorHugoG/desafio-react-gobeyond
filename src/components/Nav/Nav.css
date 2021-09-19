@@ -1,41 +1,37 @@
-.buttons{
-    width: 25vw ;
-    height: auto;
-    padding: 1%;
-    margin: 15px auto;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: auto;
-    overflow-x: auto;
-    border-radius: 15px;
-    box-shadow: 10px 10px 15px #ccc;
-    
+.buttons {
+  width: 25vw;
+  height: auto;
+  padding: 1%;
+  margin: 15px auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  overflow-x: auto;
+  border-radius: 15px;
+  box-shadow: 10px 10px 15px #ccc;
 }
 
-.abas{
+.abas {
   border: none;
   border-radius: 5px;
   height: 50px;
   background: none;
 }
-.active{
-    background: rgb(95, 95, 95);
-    color: white;
+.active {
+  background: rgb(95, 95, 95);
+  color: white;
 }
 
-.abas:hover{
-    background-color: rgb(136, 136, 136);
+.abas:hover {
+  background-color: rgb(136, 136, 136);
 }
 
-@media (max-width:1024px)
-{
-     .buttons{
-         width: 40vw;
-     }
+@media (max-width: 1024px) {
+  .buttons {
+    width: 40vw;
+  }
 
-     .abas{
-         width: 35vw;
-     }
-
-     
+  .abas {
+    width: 35vw;
+  }
 }
