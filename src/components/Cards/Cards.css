@@ -39,9 +39,10 @@
   position: absolute;
   bottom: 15px;
   left: 15px;
-  color: rgb(8, 187, 77);
+  color: #fff;
   font-size: 1.3rem;
   word-break: break-all;
+  text-shadow: 5px 5px 20px black;
 }
 @keyframes fade {
   from {
