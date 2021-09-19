@@ -49,4 +49,11 @@
 }
 
 
+@media (max-width:1024px)
+{
+    .fundo{
+        width: 90%;   
+    }
+}
+
 
