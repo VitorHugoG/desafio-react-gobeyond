@@ -57,6 +57,11 @@ export const portifolio = {
           img: "https://images.unsplash.com/photo-1608778581110-bba5c3bde272?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
           link: "https://github.com/VitorHugoG/Aviva",
         },
+        {
+          title: "E-commerce Home",
+          img: "https://images.unsplash.com/photo-1592503254549-d83d24a4dfab?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1332&q=80",
+          link: "https://go-beyond.vercel.app/"
+        }
       ],
     },
     {
