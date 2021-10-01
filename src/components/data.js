@@ -42,6 +42,27 @@ export const portifolio = {
           img: "https://images.unsplash.com/photo-1505685296765-3a2736de412f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
           link: "bbb",
         },
+        {
+          title: "React",
+          img: "https://images.unsplash.com/photo-1581276879432-15e50529f34b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+          link: "bbb",
+        },
+        {
+          title: "HTML",
+          img: "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1332&q=80",
+          link: "bbb",
+        },
+        {
+          title: "MySQL",
+          img: "https://images.unsplash.com/photo-1610018556010-6a11691bc905?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+          link: "bbb",
+        },
+        {
+          title: "Python",
+          img: "https://images.unsplash.com/photo-1538439907460-1596cafd4eff?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1156&q=80",
+          link: "bbb",
+        },
+        
       ],
     },
     {
