@@ -62,6 +62,11 @@ export const portifolio = {
           img: "https://images.unsplash.com/photo-1538439907460-1596cafd4eff?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1156&q=80",
           link: "bbb",
         },
+         {
+          title: "PHP",
+          img: "https://images.unsplash.com/photo-1599507593548-0187ac4043c6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1130&q=80",
+          link: "bbb",
+        },
         
       ],
     },
