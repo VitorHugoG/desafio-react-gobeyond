@@ -87,6 +87,16 @@ export const portifolio = {
           title: "E-commerce Home",
           img: "https://images.unsplash.com/photo-1592503254549-d83d24a4dfab?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1332&q=80",
           link: "https://go-beyond.vercel.app/"
+        },
+        {
+          title: "Desafio Final",
+          img: "https://images.unsplash.com/photo-1502101872923-d48509bff386?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1332&q=80",
+          link: "https://desafio-final-gobeyond.vercel.app/"
+        },
+         {
+          title: "Formulário de Pesquisa",
+          img: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1172&q=80",
+          link: "https://formulario-pesquisa.vercel.app/"
         }
       ],
     },
