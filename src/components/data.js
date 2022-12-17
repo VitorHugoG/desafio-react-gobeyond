@@ -3,7 +3,7 @@ export const portifolio = {
     "https://images.unsplash.com/photo-1593642634443-44adaa06623a?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
   foto_perfil: "https://avatars.githubusercontent.com/u/62728505?v=4",
   nome: "Vitor Hugo",
-  profissao: "Desenvolvedor Front-end",
+  profissao: "Desenvolvedor Full Stack",
 
   redes: [
     {
