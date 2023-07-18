@@ -8,7 +8,8 @@
   grid-template-rows: auto;
   overflow-x: auto;
   border-radius: 15px;
-  box-shadow: 10px 10px 15px #ccc;
+  box-shadow: 5px 5px 15px #4c4c4c;
+  background-color: #1c255d;
 }
 
 .abas {
@@ -16,14 +17,17 @@
   border-radius: 5px;
   height: 50px;
   background: none;
+  color: #fff;
 }
 .active {
-  background: rgb(95, 95, 95);
+  background:  #03061b;
   color: white;
 }
 
 .abas:hover {
-  background-color: rgb(136, 136, 136);
+  background-color: #03061b;
+  color: white;
+  
 }
 
 @media (max-width: 1024px) {

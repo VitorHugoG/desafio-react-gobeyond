@@ -10,7 +10,7 @@
 
 .cards {
   height: 250px;
-  background-color: rebeccapurple;
+
   position: relative;
   transition: 0.5s;
   border-radius: 5px;
@@ -20,8 +20,8 @@
 
 .cards:hover {
   transform: translateY(-15px);
-  box-shadow: 5px 15px 15px #ccc;
-}
+  box-shadow: 10px 10px 15px #1c255d;
+} 
 
 .background {
   width: 100%;

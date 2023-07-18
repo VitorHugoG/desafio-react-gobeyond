@@ -1,26 +1,30 @@
+import whatsapp from "../assets/img/whats.svg"
+import github from "../assets/img/github.svg"
+import linkedin from "../assets/img/linkedin.svg"
+
 export const portifolio = {
   background:
     "https://images.unsplash.com/photo-1593642634443-44adaa06623a?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
   foto_perfil: "https://avatars.githubusercontent.com/u/62728505?v=4",
   nome: "Vitor Hugo",
-  profissao: "Desenvolvedor Full Stack",
+  profissao: "Desenvolvedor",
 
   redes: [
     {
-      logo: "https://cdn-icons-png.flaticon.com/64/1384/1384023.png",
       nome: "Whatsapp",
       link: "https://api.whatsapp.com/send?phone=5511949120546",
+      logo: whatsapp
     },
     {
-      logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+      logo: github,
       nome: "Github",
-      link: "https://github.com/VitorHugoG",
+      link: "https://github.com/VitorHugoG"
     },
     {
-      logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg",
+      logo: linkedin,
       nome: "Linkedin",
-      link: "https://www.linkedin.com/in/vitor-hugo-730044152/",
-    },
+      link: "https://www.linkedin.com/in/vitor-hugo-730044152/"
+    }
   ],
 
   abas: [
@@ -100,7 +104,7 @@ export const portifolio = {
         },
         {
           title: "Tree Systems",
-          img: "https://tree-systems-rbu5taq2n-vitorhugog.vercel.app/imagens/nav/logo-tree.png",
+          img: "https://images.pexels.com/photos/802127/pexels-photo-802127.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           link: "https://tree-systems-rbu5taq2n-vitorhugog.vercel.app/index.html"
         }
       ],
@@ -110,7 +114,7 @@ export const portifolio = {
       posts: [
         {
           title: "Venus de Milo",
-          img: "https://images.unsplash.com/photo-1593180318097-80afc542cfff?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=436&q=80",
+          img: "https://images.pexels.com/photos/14506150/pexels-photo-14506150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           link: "https://www.instagram.com/p/CN6KFMGLp9T/",
         },
         {
