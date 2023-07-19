@@ -78,11 +78,6 @@ export const portifolio = {
       title: "💻 projetos",
       posts: [
         {
-          title: "Qfome",
-          img: "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
-          link: "https://github.com/VitorHugoG/QFome-1",
-        },
-        {
           title: "Aviva",
           img: "https://images.unsplash.com/photo-1608778581110-bba5c3bde272?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
           link: "https://github.com/VitorHugoG/Aviva",
