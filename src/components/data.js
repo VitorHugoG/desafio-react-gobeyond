@@ -106,6 +106,16 @@ export const portifolio = {
           title: "Tree Systems",
           img: "https://images.pexels.com/photos/802127/pexels-photo-802127.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           link: "https://tree-systems-rbu5taq2n-vitorhugog.vercel.app/index.html"
+        },
+        {
+          title: "Cálculo de Gasolina - KivyMD",
+          img: "https://images.pexels.com/photos/3812750/pexels-photo-3812750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          link: "https://github.com/VitorHugoG/kivyMD-app-calculo-gasolina"
+        },
+        {
+          title: "Qfome",
+          img: "https://images.pexels.com/photos/604969/pexels-photo-604969.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          link: "https://github.com/VitorHugoG/QFome-1"
         }
       ],
     },
